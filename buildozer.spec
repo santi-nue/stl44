@@ -40,7 +40,7 @@ version = 0.1
 # requirements = python3,kivy==2.1.0,kivymd==0.104.2,pillow==8.3.1
 # requirements = python==3.9.4,kivy==2.1.0,cachetools,rsa,six,urllib3,openssl, futures, requests,charset-normalizer,idna,docutils,Kivy-Garden,httplib2,jnius,textwrap3
 
-requirements = python3==3.9.4,kivy==2.0.0,kivymd==0.104.2,numpy,pillow,kivy_garden.mapview,openssl,requests,charset_normalizer,chardet,idna, urllib3,certifi,httplib2,jnius,textwrap3
+requirements = python==3.9.4,kivy==2.0.0,kivymd==0.104.2,numpy,pillow,kivy_garden.mapview,futures,openssl,requests,charset_normalizer,chardet,idna, urllib3,certifi,httplib2,jnius,textwrap3
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
